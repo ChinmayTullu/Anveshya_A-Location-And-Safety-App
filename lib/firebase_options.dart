@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsYQYOFy6Y-N1q5xKtUFyU2PziMq7NRfM',
+    apiKey: '',
     appId: '1:860359746569:web:cf7dcb54d5ac7f936e44d8',
     messagingSenderId: '860359746569',
     projectId: 'tsec-hacks-25',
