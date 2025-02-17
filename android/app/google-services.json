@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860359746569",
+    "project_id": "tsec-hacks-25",
+    "storage_bucket": "tsec-hacks-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860359746569:android:1efaed109a66f84b6e44d8",
+        "android_client_info": {
+          "package_name": "com.htxsins.person"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmgdreXAQLGnftR0njpwhJMDxkKFx2Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
