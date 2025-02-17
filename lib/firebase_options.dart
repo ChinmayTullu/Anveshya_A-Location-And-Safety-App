@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCZmgdreXAQLGnftR0njpwhJMDxkKFx2Fg',
+    apiKey: '',
     appId: '1:860359746569:android:1efaed109a66f84b6e44d8',
     messagingSenderId: '860359746569',
     projectId: 'tsec-hacks-25',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBUjPaUdZDk325pAaUHKPZ6823VdW357fs',
+    apiKey: '',
     appId: '1:860359746569:ios:7e7dcdf1b0e7fe046e44d8',
     messagingSenderId: '860359746569',
     projectId: 'tsec-hacks-25',
